@@ -1,0 +1,30 @@
+.main{
+   width: 300px;
+   border: 1px solid black;
+   border-radius: 5px;
+   padding: 10px;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-around;
+   align-items: center;
+   gap: 1px;
+   margin: 80px;;
+
+}
+.z{
+    width: 60px;
+    border: 2px solid black;
+    height: 60px;
+    border-radius: 5px;
+    padding: 5px;
+    background-color:azure
+}
+.s{
+    background-color: yellow;
+}
+h1{
+    position: relative;
+    left: 15%;
+    margin-top: 80px;
+}
+
